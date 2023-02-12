@@ -37,7 +37,7 @@ https://21-school.ru/ <br/>
 Ссылка: *https://github.com/Danel668/MyShop*
 
 - **Blog** <br/>
-Серверная сторона блога на ASP NET CORE через Swagger. Шаблон - Web API. СУБД - MS SQL Server(local). ORM - Entity Framework Core. Многоуровневая архитектура. (Больше информации - *README.md*)<br/> Ссылка: *https://github.com/Danel668*
+Серверная сторона блога на ASP NET CORE через Swagger. Шаблон - Web API. СУБД - MS SQL Server(local). ORM - Entity Framework Core. Многоуровневая архитектура. (Больше информации - *README.md*)<br/> Ссылка: *https://github.com/Danel668/Blog*
 
 - **Polish_Notation** <br/>
 Проект предназначен для построения графиков заданной функции. Реализация перевода инфиксной формы строки в постфиксную. Реализация алгоритма Дейкстры (Больше информации - *README.md*). <br/>
